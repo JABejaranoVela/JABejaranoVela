@@ -28,7 +28,7 @@ Right now I’m focused on improving my backend skills and DevOps practices whil
 - [**GitActions – Full Stack Open CI/CD**](https://github.com/JABejaranoVela/GitActions)  
   Exercises of the CI/CD module from the Full Stack Open course, using GitHub Actions, Cypress tests and deployment pipelines for a JavaScript app.
 
-- * **[Gainkode Experience]** - *During my internship as a Junior Full-Stack Developer, I worked on data modeling with **Prisma ORM** over **PostgreSQL**, created **Swagger/OpenAPI** documentation, and implemented automated API testing with **Schemathesis**. I also managed CI/CD pipelines using **GitHub Actions** and **Docker**.*
+- **Gainkode Experience** - *During my internship as a Junior Full-Stack Developer, I worked on data modeling with **Prisma ORM** over **PostgreSQL**, created **Swagger/OpenAPI** documentation, and implemented automated API testing with **Schemathesis**. I also managed CI/CD pipelines using **GitHub Actions** and **Docker**.*
 
 --
 
@@ -44,9 +44,8 @@ Right now I’m focused on improving my backend skills and DevOps practices whil
 ---
 
 <div align="center">
-  
-  Explicación de cómo lo hago: ¡Revisa mi código!
+
   <br/>
-  <a href="mailto:joseantoniobejarano@outlook.es">📫 Contáctame: joseantoniobejarano@outlook.es</a>
+  <a href="mailto:joseantoniobejarano@outlook.es">📫 Contact me: joseantoniobejarano@outlook.es</a>
 
 </div>
