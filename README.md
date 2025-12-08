@@ -1,4 +1,4 @@
-# ¡Hola! 👋
+# Hey there! 👋
 
 I'm **Jose Antonio**, a Multiplatform Applications Developer based in **Seville, Spain**.  
 I’m a software developer obsessed with the backend and with knowing every line of my code in detail.
@@ -8,7 +8,7 @@ Right now I’m focused on improving my backend skills and DevOps practices whil
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 * **Lenguajes:** TypeScript, Java, Python, SQL.
 * **Backend:** Node.js, NestJS, Express, Spring Boot.
@@ -30,7 +30,7 @@ Right now I’m focused on improving my backend skills and DevOps practices whil
 
 - **Gainkode Experience** - *During my internship as a Junior Full-Stack Developer, I worked on data modeling with **Prisma ORM** over **PostgreSQL**, created **Swagger/OpenAPI** documentation, and implemented automated API testing with **Schemathesis**. I also managed CI/CD pipelines using **GitHub Actions** and **Docker**.*
 
---
+---
 
 ## 🎓 Background
 
@@ -40,6 +40,13 @@ Right now I’m focused on improving my backend skills and DevOps practices whil
   - API documentation with **Swagger / OpenAPI 3.0**  
   - API tests with **Schemathesis** and CI/CD with **GitHub Actions + Docker**  
   - Work in Scrum ceremonies, code reviews and containerised deployments
+
+---
+
+## 🌐 Languages
+
+- 🇪🇸 Spanish: Native  
+- 🇬🇧 English: B2 (Aptis, 2019)
 
 ---
 
