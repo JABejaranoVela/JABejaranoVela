@@ -4,7 +4,7 @@ I'm **Jose Antonio**, a Multiplatform Applications Developer based in **Seville,
 I’m a software developer obsessed with the backend and with knowing every line of my code in detail.
 
 I enjoy designing clean architectures, modelling data and building APIs that are easy to test, document and deploy.  
-Right now I’m focused on improving my backend skills and DevOps practices while I am looking for employ.
+Right now I’m focused on improving my backend skills and DevOps practices while I am looking for a job.
 
 ---
 
